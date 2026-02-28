@@ -17,7 +17,7 @@ This document tracks the planned features and milestones for the MoneyApp person
 
 ## Milestone 1 – Core Stability
 
-- [ ] Add unit and integration tests (Vitest + React Testing Library)
+- [x] Add unit and integration tests (Vitest + React Testing Library)
 - [x] CI pipeline with lint, build, and test checks (GitHub Actions)
 - [ ] Error boundary and graceful error UI for API failures
 - [ ] Improve AA service retry logic and error handling
