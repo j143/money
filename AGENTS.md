@@ -32,6 +32,9 @@ Deployed on: Vercel (edge deployment)
 
 ```
 money/
+├── .github/
+│   └── workflows/
+│       └── ci.yml            # GitHub Actions: lint + build on push/PR
 ├── public/                   # Static assets served as-is
 ├── src/
 │   ├── components/
